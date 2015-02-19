@@ -1,0 +1,11 @@
+{
+  "name": "portions",
+  "version": "0.0.0",
+  "description": "A tool to cut down the servings a recipe makes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Mele",
+  "license": "ISC"
+}
